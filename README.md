@@ -9,7 +9,6 @@ I enjoy exploring how software, security, networks, data, and modern tools come 
 - Digital forensics, media verification, and evidence review
 - Web and mobile application ideas
 - Dashboards, marketplaces, and operational tools
-- React, Vite, Supabase, Firebase, Node.js, and Python
 
 ## Featured Projects
 
