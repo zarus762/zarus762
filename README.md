@@ -1,4 +1,3 @@
-# Lazarus Mosses
 
 Tech enthusiast with a strong interest in cybersecurity, digital forensics, and practical digital systems.
 
